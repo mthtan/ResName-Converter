@@ -1,4 +1,4 @@
-# Protein Residue Conversion Tools
+# Protein Residue Name Conversion Tools
 
 This repository contains two Python scripts designed to convert protein residue names in CSV files. The scripts allow for conversion between three-letter and one-letter amino acid codes, providing flexibility in handling protein sequence data.
 
